@@ -1,8 +1,6 @@
-package org.acme;
+package org.eichstaedt;
 
 import io.quarkus.test.junit.QuarkusTest;
-import io.restassured.http.Header;
-import io.restassured.http.Headers;
 import org.junit.jupiter.api.Test;
 
 import static io.restassured.RestAssured.given;
